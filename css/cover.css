@@ -28,7 +28,7 @@ html,
 body {
   height: 100%;
   background-color: #444;
-  background-image: url("./images/still-1a.png");
+  background-image: url("../images/still-1a.png");
   background-position: top;
   /* background-repeat: no-repeat; */
   font-family: monospace;
@@ -37,7 +37,6 @@ body {
 #watch-page{
   height: 100%;
   background-color: #444;
-  background-image: url("title.png");
   background-position: top;
   /* background-repeat: no-repeat; */
   font-family: monospace;
@@ -47,7 +46,6 @@ body {
 #contact-page{
   height: 100%;
   background-color: #444;
-  background-image: url("filmmakers.jpg");
   background-position: top;
   /* background-repeat: no-repeat; */
   font-family: monospace;
